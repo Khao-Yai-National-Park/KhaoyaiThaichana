@@ -1,0 +1,24 @@
+{
+  "name": "require",
+  "version": "1.0.0",
+  "description": "KhaoyaiThaichana is web update data from website thaichana",
+  "main": "thaichana.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "promise": "^8.1.0",
+    "puppeteer": "^5.2.1",
+    "puppeteer-extra": "^3.1.13",
+    "puppeteer-extra-plugin-recaptcha": "^3.1.14",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Khao-Yai-National-Park/KhaoyaiThaichana.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
